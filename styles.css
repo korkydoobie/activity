@@ -95,4 +95,11 @@ button:hover{
 	}
 }
 
+@media (max-width: 450px){
+	input, textarea{
+		width: 200px;
+		top: 20px;
+	}
+}
+
 
